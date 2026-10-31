@@ -19,7 +19,7 @@ Russian as a foreign language; Persian language; language interference; contrast
 
 ## PDF
 
-Upload the final PDF to the repository root as `Russian-Persian-Language-Interference.pdf` before creating a Zenodo release.
+Upload the final PDF to the repository root as `Russian-Persian Language Interference.pdf` before creating a Zenodo release.
 
 ## DOI
 
