@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this conference paper, please cite it."
+title: "Russian-Persian Language Interference: A Contrastive Approach to Teaching Russian as a Foreign Language"
+authors:
+  - family-names: Rubin
+    given-names: Mohammadmahdi
+    affiliation: "Independent Researcher, Iran"
+type: conference-paper
